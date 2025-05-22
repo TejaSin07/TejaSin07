@@ -6,6 +6,7 @@
 - 📫 How to reach me:  
   - 📧 Email: tejas.sinkar@example.com  
   - 💼 [LinkedIn](https://www.linkedin.com/in/tejassinkar07/)  
+  - 🧠 [LeetCode](https://leetcode.com/u/tejassinkar24/)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love debugging tricky backend issues — it feels like solving a mystery! 🕵️‍♂️
 
