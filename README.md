@@ -1,14 +1,16 @@
 # 👋 Hi, I’m Tejas Sinkar (@TejaSin07)
 
-- 👀 I’m interested in Java backend development, microservices, RESTful APIs, and building scalable web applications.
-- 🌱 I’m currently learning advanced Spring Boot concepts, Angular, AWS deployment, and clean coding practices.
-- 💞️ I’m looking to collaborate on Java/Spring Boot microservices projects, open-source backend tools, or developer community initiatives.
+- 👀 I’m interested in Java backend development, Spring Boot microservices, RESTful APIs, and building scalable web applications.
+- 🌱 While working as a backend developer, I’m continuously sharpening my skills in advanced Spring Boot, Angular, AWS deployment, and writing clean, testable code.
+- 💞️ I’m looking to collaborate on backend-focused open-source projects, microservices architecture, or cloud-native application development.
+- 🛠️ Tech Stack: Java, Spring Boot, Angular, MySQL/OracleDB, REST APIs, JPA, Kafka, JUnit, Git, Docker, Jenkins.
 - 📫 How to reach me:  
-  - 📧 Email: tejas.sinkar@example.com  
+  - 📧 Email: tejassinkar24@gmail.com  
   - 💼 [LinkedIn](https://www.linkedin.com/in/tejassinkar07/)  
   - 🧠 [LeetCode](https://leetcode.com/u/tejassinkar24/)  
+  - 🧑‍💻 [GitHub](https://github.com/TejaSin07)  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love debugging tricky backend issues — it feels like solving a mystery! 🕵️‍♂️
+- 🏆 Fun fact: Debugging tough backend issues feels like solving thrilling detective cases! 🕵️‍♂️  
 
 <!---
 TejaSin07/TejaSin07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
