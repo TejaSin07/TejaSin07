@@ -8,7 +8,6 @@
   - 📧 Email: tejassinkar24@gmail.com  
   - 💼 [LinkedIn](https://www.linkedin.com/in/tejassinkar07/)  
   - 🧠 [LeetCode](https://leetcode.com/u/tejassinkar24/)  
-  - 🧑‍💻 [GitHub](https://github.com/TejaSin07)  
 - 😄 Pronouns: He/Him  
 - 🏆 Fun fact: Debugging tough backend issues feels like solving thrilling detective cases! 🕵️‍♂️  
 
