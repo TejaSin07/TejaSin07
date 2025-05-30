@@ -9,7 +9,7 @@
   - 💼 [LinkedIn](https://www.linkedin.com/in/tejassinkar07/)  
   - 🧠 [LeetCode](https://leetcode.com/u/tejassinkar24/)  
 - 😄 Pronouns: He/Him  
-- 🏆 Fun fact: Debugging tough backend issues feels like solving thrilling detective cases! 🕵️‍♂️  
+
 
 <!---
 TejaSin07/TejaSin07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
