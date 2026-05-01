@@ -7,7 +7,7 @@ Building scalable backend systems, microservices, and AI-driven applications.
 ## About Me
 - Currently working on full-stack and microservices-based applications  
 - Exploring AI-powered systems and intelligent workflows  
-- Learning advanced system design and AI integrations  
+- Learning advanced system design and Retrieval-Augmented Generation (RAG)  
 
 ---
 
@@ -37,18 +37,22 @@ Building scalable backend systems, microservices, and AI-driven applications.
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### AI & Intelligent Systems
-![AI](https://img.shields.io/badge/AI%20Systems-0B3D91?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM%20Integration-4B0082?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6C757D?style=for-the-badge)
+![GPT](https://img.shields.io/badge/GPT%20APIs-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-005571?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-00BFA6?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector%20Database-3F51B5?style=for-the-badge)
+![Chunking](https://img.shields.io/badge/Text%20Chunking-6C757D?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-8E44AD?style=for-the-badge)
 
 ---
 
 ## What I Build
 - Full-stack applications (database to UI)  
 - Scalable microservices and APIs  
-- AI-powered features and automation workflows  
+- AI-powered systems using RAG architecture  
+- Document processing pipelines (chunking → embeddings → retrieval)  
+- Context-aware chat and intelligent automation workflows  
 - Cloud-native containerized systems  
-- Optimized database solutions  
 
 ---
 
