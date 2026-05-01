@@ -1,37 +1,62 @@
-# 👨‍💻 Tejas Sinkar | Full-Stack Software Engineer
+# Tejas Sinkar | Full-Stack Engineer
 
-**Full-stack engineer specializing in scalable applications, microservices, cloud-native solutions, and AI-driven systems.**
-
----
-
-## 💡 Key Highlights
-
-- **Backend**: Java, Spring Boot, RESTful APIs, Microservices, Apache Kafka  
-- **Frontend**: React.js, JavaScript (ES6+), Tailwind CSS, Redux  
-- **Databases**: MySQL, Oracle, JPA/Hibernate, Query Optimization  
-- **DevOps & Cloud**: Docker, Kubernetes, Jenkins CI/CD, AWS  
-- **AI & Intelligent Systems**: Worked on AI-based solutions using LLM APIs, prompt engineering, and backend integrations to enable automation, intelligent workflows, and context-aware responses  
-- **Testing & Quality**: JUnit, Mockito, Jest, TDD, Clean Code  
+Building scalable backend systems, microservices, and AI-driven applications.
 
 ---
 
-## 🎯 What I Build
+## About Me
+- Currently working on full-stack and microservices-based applications  
+- Exploring AI-powered systems and intelligent workflows  
+- Learning advanced system design and AI integrations  
 
-- Full-stack web applications (Database → UI)  
+---
+
+## Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### AI & Intelligent Systems
+![AI](https://img.shields.io/badge/AI%20Systems-0B3D91?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM%20Integration-4B0082?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6C757D?style=for-the-badge)
+
+---
+
+## What I Build
+- Full-stack applications (database to UI)  
 - Scalable microservices and APIs  
-- Responsive, modern user interfaces  
-- Cloud-deployed containerized applications  
-- High-performance database solutions  
-- AI-powered features like intelligent recommendations, automation pipelines, and natural language-based interactions  
+- AI-powered features and automation workflows  
+- Cloud-native containerized systems  
+- Optimized database solutions  
 
 ---
 
-## 🔗 Connect
-
-- 📧 **Email**: tejassinkar24@gmail.com  
-- 💼 **LinkedIn**: [tejassinkar07](https://www.linkedin.com/in/tejassinkar07/)  
-- 🧠 **LeetCode**: [tejassinkar24](https://leetcode.com/u/tejassinkar24/)  
+## Connect
+- Email: tejassinkar24@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/tejassinkar07/  
+- LeetCode: https://leetcode.com/u/tejassinkar24/  
 
 ---
 
-**Let's build scalable and intelligent systems that solve real-world problems.**
+Focused on building systems that are scalable, secure, and intelligent.
