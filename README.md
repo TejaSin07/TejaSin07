@@ -1,21 +1,28 @@
-# 👨‍💻 Tejas Sinkar | Backend Software Engineer
+# 👨‍💻 Tejas Sinkar | Full-Stack Software Engineer
 
-Welcome to my GitHub profile. I'm a passionate backend developer specializing in building robust, scalable, and performant server-side applications using modern technologies and best practices.
+Welcome to my GitHub profile. I'm a passionate developer specializing in building robust, scalable, and performant applications using modern technologies and best practices. I excel in both backend and frontend development, creating seamless full-stack solutions.
 
 ---
 
 ## 🎯 About Me
 
-I'm a dedicated backend engineer with expertise in designing and implementing enterprise-grade applications, microservices architectures, and cloud-native solutions. I focus on writing clean, maintainable code and creating APIs that power seamless user experiences.
+I'm a dedicated full-stack engineer with expertise in designing and implementing enterprise-grade applications, microservices architectures, and cloud-native solutions. My skillset spans across backend systems and modern frontend frameworks, allowing me to architect complete solutions end-to-end. I focus on writing clean, maintainable code and delivering exceptional user experiences alongside performant server-side infrastructure.
 
 ---
 
 ## 💼 Technical Expertise
 
-### Languages & Frameworks
+### Backend - Languages & Frameworks
 - **Primary**: Java, Spring Boot, Spring Framework
 - **APIs & Architecture**: RESTful APIs, Microservices, Event-Driven Architecture
 - **Messaging & Streaming**: Apache Kafka, Message Queues
+
+### Frontend - Languages & Frameworks
+- **JavaScript Frameworks**: React.js, JavaScript (ES6+)
+- **Styling & UI**: CSS3, Tailwind CSS, Bootstrap
+- **State Management**: Redux, Context API
+- **Build Tools**: Webpack, Vite, npm/yarn
+- **Frontend Best Practices**: Responsive Design, Component-Based Architecture
 
 ### Databases & Data Management
 - **Relational**: MySQL, Oracle Database
@@ -28,20 +35,22 @@ I'm a dedicated backend engineer with expertise in designing and implementing en
 - Infrastructure as Code
 
 ### Development & Testing
-- Unit Testing: JUnit, Mockito
-- Test-Driven Development (TDD)
-- Integration Testing
-- Version Control: Git
+- **Unit Testing**: JUnit, Mockito, Jest
+- **Test-Driven Development (TDD)**
+- **Integration & E2E Testing**
+- **Version Control**: Git, GitHub
 
 ---
 
 ## 🚀 What I Do
 
-- **Backend Development**: Building scalable microservices and APIs that handle complex business logic
+- **Full-Stack Development**: Building complete web applications from database design to interactive UI
+- **Backend Development**: Creating scalable microservices and APIs that handle complex business logic
+- **Frontend Development**: Developing responsive, modern user interfaces with React and contemporary web technologies
 - **System Design**: Architecting solutions for high-traffic, mission-critical applications
 - **Database Optimization**: Designing efficient schemas and query optimization
 - **Cloud Deployment**: Containerizing and deploying applications on cloud platforms
-- **Code Quality**: Emphasizing clean code, testing, and maintainability
+- **Code Quality**: Emphasizing clean code, testing, and maintainability across the stack
 
 ---
 
@@ -57,14 +66,15 @@ I'm a dedicated backend engineer with expertise in designing and implementing en
 
 - Advancing expertise in distributed systems and system design
 - Exploring advanced Spring Boot patterns and microservices best practices
-- Contributing to open-source backend projects
+- Mastering modern React patterns and frontend state management
+- Contributing to open-source full-stack projects
 - Building cloud-native applications with containerization and orchestration
 
 ---
 
 ## 🎓 Philosophy
 
-I believe in writing code that is not just functional, but also maintainable, testable, and efficient. I'm committed to continuous learning and staying updated with industry best practices and emerging technologies in backend development.
+I believe in writing code that is not just functional, but also maintainable, testable, and efficient. Whether building backend APIs or interactive frontends, I'm committed to continuous learning and staying updated with industry best practices and emerging technologies.
 
 ---
 
